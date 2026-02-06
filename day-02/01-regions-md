@@ -29,7 +29,7 @@ Azure Availability Zones are part of Azure's high-availability architecture, pro
 When deploying resources in Azure, it's crucial to consider factors such as:
 
 - **Proximity to Users:** Choose a region that is geographically close to your users to minimize latency.
-
+ 
 - **Compliance Requirements:** Ensure that the chosen region complies with regulatory and data residency requirements.
 
 - **High Availability Needs:** If high availability is a priority, distribute resources across multiple Availability Zones within a region.
