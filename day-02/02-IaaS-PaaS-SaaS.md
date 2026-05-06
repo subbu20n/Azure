@@ -46,4 +46,4 @@ When deciding between IaaS, PaaS, and SaaS in Azure, consider factors such as:
 
 - **Resource Control:** Choose IaaS if you need more control over the underlying infrastructure.
 
-- **Cost Considerations:** Evaluate pricing models for each service and choose based on your budget and usage patterns.
+- **Cost Considerations:** Evaluate pricing models for each service and choose based on your budget and usage patterns. 
