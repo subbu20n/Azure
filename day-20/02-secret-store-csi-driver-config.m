@@ -67,7 +67,7 @@ az identity federated-credential create --name $FEDERATED_IDENTITY_NAME --identi
 
 ```
 cat <<EOF | kubectl apply -f -
-# This is a SecretProviderClass example using workload identity to access your key vault
+# This is a SecretProviderClass example using workload identity to access your key vault 
 apiVersion: secrets-store.csi.x-k8s.io/v1
 kind: SecretProviderClass
 metadata:
