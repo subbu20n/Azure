@@ -70,7 +70,7 @@ cat <<EOF | kubectl apply -f -
 # This is a SecretProviderClass example using workload identity to access your key vault 
 apiVersion: secrets-store.csi.x-k8s.io/v1
 kind: SecretProviderClass
-metadata:
+metadata: 
   name: azure-kvname-wi # needs to be unique per namespace
 spec:
   provider: azure
