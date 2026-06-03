@@ -4,7 +4,7 @@
 
 IaaS is a cloud computing model that provides virtualized computing resources over the internet. In Azure, IaaS offerings include virtual machines, storage, and networking components. Users have more control over the infrastructure but are responsible for managing and maintaining the operating system, middleware, and applications.
 
-### Key Characteristics of Azure IaaS:
+### Key Characteristics of Azure IaaS:  
 
 - **Scalability:** Easily scale resources up or down based on demand.
   
